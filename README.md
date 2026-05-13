@@ -13,5 +13,5 @@ HuggingFace Hub uploaded a fine-tuned model checkpoints- https://huggingface.co/
 
 <img src="https://github.com/AGAMPANDEYY/Yolov_LLM/blob/main/Video%20input%20to%20Yolov5%20model.png" width="900" height="400">
 
-
+[![DeepWiki Index](https://deepwiki.com/badge.svg)](https://deepwiki.com/user/repo)
 
